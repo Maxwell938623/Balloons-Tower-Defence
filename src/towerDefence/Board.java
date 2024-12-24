@@ -3,7 +3,6 @@ package towerDefence;
 import towerDefence.tiles.BackgroundTile;
 import towerDefence.tiles.Tile;
 import towerDefence.tiles.TowerTile;
-
 import java.awt.*;
 import java.util.ArrayList;
 import java.util.Collections;
